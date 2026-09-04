@@ -22,6 +22,6 @@ Returns:
 ```
 
 - Processes up to 10 userIds per request
-- Bounded concurrency (3 users at a time)
-- Failed users are `null` (partial success)
+- Bounded concurrency
+- Failed users are `null`
 - Response may include `Cache-Control: s-maxage=1800`
