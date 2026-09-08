@@ -4,7 +4,7 @@
 name = "cf"
 main = "index.js"
 compatibility_date = "2025-03-04"
-workers_dev = false
+workers_dev = true
 send_metrics = false
 compatibility_flags = [ "nodejs_compat" ]
 
