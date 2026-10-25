@@ -1,6 +1,6 @@
 # rbxproxy
 
-Proxy for Roblox info fetching from in-game `HttpService`.
+Proxy for Roblox info fetching from in-game `HttpService`. This is specifically made for [Vibe NYC](https://www.roblox.com/games/88454355170460/Vibe-NYC-18).
 
 ## Endpoints
 
